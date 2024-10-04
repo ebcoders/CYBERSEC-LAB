@@ -1,0 +1,8 @@
+Issuer Name: IIITA
+Subject ID: iit2022196@iiita.ac.in
+Validity:
+    NotBefore: Tue, 03 Sep 2024
+    NotAfter: Thu, 03 Sep 2026
+Signature Algorithm: DSA
+Subject Public Key: (Diffie-Hellman) zUQj4TPZ+1hvSQuRPMQa5ybqrRIN/dEWqomEFeESUNIP/zRyv6E5c7BQ9p6oB1zII3UEeK1bhN9E003jj5r9Mu30TO0tsiJ3DpHyykFIWfEijTIbM+BE7Je2vFOuQfCDt/B+SOnc20p49fMv239P5BwpT2+mypKZkvWXU9UKkEM=
+Signature: O7ZIqzAKmB72pu6+yzrKJVt6WqMpU7ysP+TBDwkO7UysWtXGVYMHLDuuz9T2mGQI3VuRsh+WYo4=
